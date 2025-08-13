@@ -12,14 +12,14 @@ dependencies = [
     "python-multipart==0.0.18",
 
     "Flask==3.0.3",
-    "Flask-Cors==5.0.0",
+    "Flask-Cors==6.0.0",
 
     "python-socketio==5.11.3",
-    "python-jose==3.3.0",
+    "python-jose==3.4.0",
     "passlib[bcrypt]==1.7.4",
 
-    "requests==2.32.3",
-    "aiohttp==3.11.8",
+    "requests==2.32.4",
+    "aiohttp==3.12.14",
     "async-timeout",
     "aiocache",
     "aiofiles",
@@ -60,7 +60,7 @@ dependencies = [
     "einops==0.8.0",
 
     "ftfy==6.2.3",
-    "pypdf==4.3.1",
+    "pypdf==6.0.0",
     "fpdf2==2.7.9",
     "pymdown-extensions==10.11.2",
     "docx2txt==0.8",
